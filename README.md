@@ -4,7 +4,6 @@
 
 - [Report](Policy_Networks_for_Non_Markovian_Reinforcement_Learning_Rewards.pdf)
 - [Slides](Presentation.pdf)
-- [Video Presentation](https://drive.google.com/file/d/1vximpMUGtX5Auq_K6nLasBytKDnYt_0p/view?usp=sharing)
 
 ## Authors
 
